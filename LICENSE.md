@@ -1,4 +1,4 @@
-# 
+# Nouveau Project Origin plugins. Avec IA de bord et extraction de caractéristiques — optimisé pour des performances maximales.
 
 
 
